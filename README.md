@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://example.com/your-logo.png" alt="Logo" width="200" height="200">
-</div>
-
 # Projeto de Compartilhamento de Conhecimento 📚
 
 Bem-vindo ao repositório de compartilhamento de conhecimento! Este repositório é dedicado a armazenar e compartilhar uma variedade de materiais educacionais e documentos relacionados a tecnologia, infraestrutura de TI, segurança digital e muito mais.
@@ -65,21 +61,38 @@ Este é um projeto aberto e estamos felizes em receber contribuições da comuni
 
 Por favor, assegure-se de seguir nosso [Código de Conduta](./code-of-conduct.md) ao contribuir.
 
-## Informações de Contato 📧
+# Elias Andrade - Portfólio de Certificações e Conquistas
 
-Você pode entrar em contato comigo para feedback, dúvidas ou sugestões através das seguintes formas:
+![Apresentação](https://raw.githubusercontent.com/chaos4455/py-dev/main/chrome_CiZLYinHdr.png) 
 
-- Email: seu.email@example.com
-- LinkedIn: [Elias Andrade](https://www.linkedin.com/in/eliasandrade)
-- Twitter: [@EliasAndrade](https://twitter.com/EliasAndrade)
+[Ver mi currículum 🇪🇸](https://github.com/chaos4455/Certifica-es/blob/main/resume_spanish.md)
 
-## Repositórios Principais 🌟
+[View my resume 🇺🇸](https://github.com/chaos4455/Certifica-es/blob/main/english_resume.md)
 
-Confira meus principais repositórios relacionados:
+### Portfólio de DevOps 2024 
 
-- [Repositório Principal 1](https://github.com/seu-usuario/repo-principal-1)
-- [Repositório Principal 2](https://github.com/seu-usuario/repo-principal-2)
-- [Repositório Principal 3](https://github.com/seu-usuario/repo-principal-3)
+- 📁 [Devops-2024](https://github.com/elias-andrade-devops/Elias-Andrade-Devops-2024/): Este repositório contém projetos, scripts e documentações relacionadas ao meu portfólio de DevOps em 2024. Aqui você encontrará uma variedade de trabalhos, desde automação de infraestrutura até implementações de CI/CD e muito mais. 
+
+## 📌 Informações de Contato
+
+- 🏠 Localização: Maringá, Paraná, Brasil
+- 📧 E-mail: oeliasandrade@gmail.com
+- 📱 WhatsApp: +44 8859-7116
+- 🌐 LinkedIn: [Elias Andrade - LinkedIn Administrador de redes e infraestrutura](https://www.linkedin.com/in/itilmgf)
+
+# Currículos de Elias Andrade
+
+## 📄 Administrador de Redes e Infraestrutura / Analista DevOps
+
+[![Currículo Administrador de Redes e Infraestrutura / Analista DevOps](https://img.shields.io/badge/Currículo-Administrador_de_Redes_e_Infraestrutura_/_Analista_DevOps-blue)](https://github.com/elias-andrade-devops/Elias-Andrade-Devops-2024/blob/main/certificados/Curr%C3%ADculo%20Elias%20Andrade%20-%20Administrador%20de%20Redes%20e%20Infraestrutura%20%20Analista%20DevOps%20-%20Remoto.pdf)
+
+Este currículo abrange minhas habilidades e experiência como Administrador de Redes e Infraestrutura, destacando também meu conhecimento e experiência como Analista DevOps.
+
+## 🚀 Analista DevOps GitOps CI/CD Docker GitHub Kubernetes ArgoCD Platform Engineer
+
+[![Currículo Analista DevOps GitOps CI/CD Docker GitHub Kubernetes ArgoCD Platform Engineer](https://img.shields.io/badge/Currículo-Analista_DevOps_GitOps_CI_CD_Docker_GitHub_Kubernetes_ArgoCD_Platform_Engineer-green)](https://github.com/elias-andrade-devops/Elias-Andrade-Devops-2024/blob/main/certificados/Elias%20Andrade%20-%20Administrador%20de%20redes%20e%20infraestrutura%20%20Analista%20Devops%20-%20Gitops%20%20Platform%20Engineer%20-%20Remoto.pdf)
+
+Este currículo destaca minha especialização como Analista DevOps com foco em GitOps, CI/CD, Docker, GitHub, Kubernetes, ArgoCD e plataformas de engenharia.
 
 ## Licença 📄
 
