@@ -59,8 +59,6 @@ Este é um projeto aberto e estamos felizes em receber contribuições da comuni
 5. Push para a branch (`git push origin nova-contribuicao`).
 6. Crie um novo **Pull Request**.
 
-Por favor, assegure-se de seguir nosso [Código de Conduta](./code-of-conduct.md) ao contribuir.
-
 # Elias Andrade - Portfólio de Certificações e Conquistas
 
 ![Apresentação](https://raw.githubusercontent.com/chaos4455/py-dev/main/chrome_CiZLYinHdr.png) 
